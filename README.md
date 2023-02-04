@@ -8,6 +8,8 @@
 
 # What is this?
 Somnambul integrates the Sleep as Android app with Discord through Tasker and a Django server. Sleep as Android sends sleep stage updates to Tasker, which sends GET requests to the Django server to update the Discord status using pypresence.
+
+The current release from 04.02.2023 (v0.1) was created in an hour and a half, so it's very simple. Stay tuned for updates and developments.
 # Requirements
 Unfortunately I have used paid apps in order to create this. However, I am looking for alternatives, although I doubt I will find an alternative to Sleep as Android that offers good quality sleep tracking with lots of tracking devices and automation compatibility.
  * Sleep as Android - https://play.google.com/store/apps/details?id=com.urbandroid.sleep
