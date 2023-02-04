@@ -30,3 +30,4 @@ Assuming you have Sleep as Android, Tasker and Django installed.
 * More information about sleep in status
 * Add icons
 * Find an alternative to Tasker
+* Remake HTTP server in C++
