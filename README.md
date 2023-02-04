@@ -1,4 +1,6 @@
 # Somnambul
+(som-nuhm-buhl)
+
  Display your sleep stage on Discord 
 </p>
 
@@ -25,6 +27,10 @@ Assuming you have Sleep as Android, Tasker and Django installed.
 6. Make sure the Discord client is open on the machine running the Django server.
 7. Use the test task in Tasker to see if it works
 8. If your status in Discord is "Playing a game: Waiting for sleep tracking", you are ready to go to sleep and your sleep stage status will be updated
+
+# License
+This project is [licensed under the MIT licence.](https://github.com/Edward205/somnambul/blob/main/LICENSE)
+
 # To-do
 * Add more details to this document
 * Add multiple langauages
