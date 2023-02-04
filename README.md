@@ -13,7 +13,7 @@ The current release from 04.02.2023 (v0.1) was created in an hour and a half, so
 # Requirements
 Unfortunately I have used paid apps in order to create this. However, I am looking for alternatives, although I doubt I will find an alternative to Sleep as Android that offers good quality sleep tracking with lots of tracking devices and automation compatibility.
  * Sleep as Android - https://play.google.com/store/apps/details?id=com.urbandroid.sleep
- * A Sleep as Android compatible sleep tracker (I use Xiaomi Mi Band 6)
+ * A device to track sleep using Sleep as Android (I use Xiaomi Mi Band 6)
  * Tasker - https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm
  * Django - tested with Django 4.1.6
  * Pypresence - https://github.com/qwertyquerty/pypresence
