@@ -27,6 +27,7 @@ Assuming you have Sleep as Android, Tasker and Django installed.
 8. If your status in Discord is "Playing a game: Waiting for sleep tracking", you are ready to go to sleep and your sleep stage status will be updated
 # WIP
 * Add more details to this document
+* Add multiple langauages
 * More information about sleep in status
 * Add icons
 * Find an alternative to Tasker
