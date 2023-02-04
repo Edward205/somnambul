@@ -9,7 +9,7 @@ Somnambul integrates the Sleep as Android app with Discord through Tasker and a 
 # Requirements
 Unfortunately I have used paid apps in order to create this. However, I am looking for alternatives, although I doubt I will find an alternative to Sleep as Android that offers good quality sleep tracking with lots of tracking devices and automation compatibility.
  * Sleep as Android - https://play.google.com/store/apps/details?id=com.urbandroid.sleep
- * A sleep tracking device compatible with Sleep as Android (I am using Xiaomi Mi Band 6)
+ * A Sleep as Android compatible sleep tracker (I use Xiaomi Mi Band 6)
  * Tasker - https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm
  * Django - tested with Django 4.1.6
  * Pypresence - https://github.com/qwertyquerty/pypresence
