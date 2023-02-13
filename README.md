@@ -22,21 +22,19 @@ Unfortunately I have used paid apps in order to create this. However, I am looki
 # Usage
 Assuming you have Sleep as Android, Tasker and Django installed.
 1. Enable Tasker automation in Sleep as Android
-2. Install the Somnambul Tasker project **PLEASE CHECK BACK SOON**
-3. Change the IP address of the vars to that of the machine you will be hosting Discord and Django on.
+2. [Install the Somnambul Tasker project](https://github.com/Edward205/somnambul/blob/main/Somnambul.prj.xml)
+3. Change the IP address and port vars to that of the machine you will be hosting Discord and Django on.
 4. Download the code for this project
 5. Open a terminal into the directory of the project and type `python manage.py runserver`
 6. Make sure the Discord client is open on the machine running the Django server.
-7. Use the test task in Tasker to see if it works
-8. If your status in Discord is "Playing a game: Waiting for sleep tracking", you are ready to go to sleep and your sleep stage status will be updated
+7. Use the "Prime Somnambul Server" task in Tasker to see if it works
+8. If your status in Discord is "Playing a game: Waiting for sleep tracking", you are ready to start sleep tracking on Sleep as Android and your sleep stage status will be updated
 
 # License
 This project is [licensed under the MIT licence.](https://github.com/Edward205/somnambul/blob/main/LICENSE)
 
 # To-do
-* Add more details to this document
 * Add multiple langauages
 * More information about sleep in status
 * Add icons
 * Find an alternative to Tasker
-* Remake HTTP server in C++
